@@ -1,16 +1,9 @@
-# How can you help?
+# Alone in the dark exam
 
-- add a main to exercises that are only functions
-- add new exercises ([sample](https://github.com/fwuensche/42-exam-miner/pull/1/files))
-- reorganize exercises in its corresponding level
-- improve solutions by:
-  - better naming variables and functions
-  - being rather explicit then implicit (for instance, avoid one-liners)
-  - catching bugs ([sample](https://github.com/fwuensche/42-exam-miner/pull/2/files))
-  - proposing your own solution as an alternative ([sample](https://github.com/fwuensche/42-exam-miner/pull/3/files))
+- level 4 an 5 all subjects in one place with different solutions
 
-### More specifically, some actionable tasks are available in the Issues session above. 
+### Could be mistakes, it is from internet *)
 
 ---
 
-### So long and thanks for all the fish 🐬
+### ready, steady, medvedi 🐬
