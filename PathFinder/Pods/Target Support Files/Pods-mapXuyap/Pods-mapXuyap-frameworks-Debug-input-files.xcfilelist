@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-mapXuyap/Pods-mapXuyap-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/GoogleMapsDirections/GoogleMapsDirections.framework
+${BUILT_PRODUCTS_DIR}/GooglePlacesAPI/GooglePlacesAPI.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
