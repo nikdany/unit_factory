@@ -1,9 +1,6 @@
 # unit_factory
 school 42 projects
 
-## Languages
-swift & C
-
 ## PathFinder project
 ## Task:
 - Geolocating the mobile phone
@@ -16,13 +13,3 @@ swift & C
 </div>
 ## Resources I used:
 cocoapods, google API, OOP, SwiftUI
-
-## Doom Nukem project
-## Task:
-- Create a mix of Doom and Duke Nukem 3D using raycasting technique.
-
-<div align="center">
-  <img src="https://github.com/nikdany/unit_factory/blob/master/images/doom_1.gif" width="60%" />
-</div>
-## Resources I used:
-raycasting technique, SDL, multithreading, and the power of C language
