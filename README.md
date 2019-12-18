@@ -1,8 +1,8 @@
 # unit_factory
 school 42 projects
 
-## Resources I used
-swift & c language
+## Languages
+swift & C
 
 ## PathFinder project
 ## Task:
@@ -14,6 +14,8 @@ swift & c language
 <div align="center">
   <img src="https://github.com/nikdany/unit_factory/blob/master/images/pathfinder.gif" width="30%" />
 </div>
+## Resources I used:
+cocoapods, google API, OOP, SwiftUI
 
 ## Doom Nukem project
 ## Task:
@@ -22,3 +24,5 @@ swift & c language
 <div align="center">
   <img src="https://github.com/nikdany/unit_factory/blob/master/images/doom_1.gif" width="60%" />
 </div>
+## Resources I used:
+raycasting technique, SDL, multithreading, and the power of C language
