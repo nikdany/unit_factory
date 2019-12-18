@@ -20,5 +20,5 @@ swift & c language
 - Create a mix of Doom and Duke Nukem 3D using raycasting technique.
 
 <div align="center">
-  <img src="https://github.com/nikdany/unit_factory/blob/master/images/doom_1.gif" width="30%" />
+  <img src="https://github.com/nikdany/unit_factory/blob/master/images/doom_1.gif" width="60%" />
 </div>
