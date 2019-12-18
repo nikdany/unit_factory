@@ -1,4 +1,8 @@
 # unit_factory
 school 42 projects
 
-c language
+swift & c language
+
+<div align="center">
+  <img src="https://github.com/nikdany/unit_factory/blob/master/images/pathfinder.gif" width="100%" />
+</div>
