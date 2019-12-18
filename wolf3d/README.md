@@ -10,7 +10,7 @@ the program cleanly.
 - Display different wall textures (the choice is yours) that vary depending on which compass point the wall is facing (North, South, East, West).
 
 <div align="center">
-  <img src="https://github.com/nikdany/unit_factory/blob/master/images/wolf_map.gif" width="50%" />
+  <img src="https://github.com/nikdany/unit_factory/blob/master/images/wolf_map.gif" width="40%" />
   <img src="https://github.com/nikdany/unit_factory/blob/master/images/wolf_preview.gif" width="60%" />
 </div>
 
